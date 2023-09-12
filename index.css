@@ -1,0 +1,29 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    margin: auto;
+    font-weight: bold;
+    background-image: url(./img/table.png);
+    background-size: cover;
+    text-align: center;
+}
+button{
+    width: 150px;
+    padding: 10px;
+    font-weight: bold;
+    border:none;
+    border-radius: 5px;
+    margin: 5px;
+    background-color: goldenrod;
+    color: #016f32;
+}
+
+
+#heading-main{
+    color: goldenrod;
+    font-size: 300%;
+}
+
+#heading-main-round{
+    font-style: italic;
+}
